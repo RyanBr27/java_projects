@@ -14,6 +14,13 @@
 
 - The following program prompts a user to enter temperatures in degrees Fahrenheit or Celsius. It then converts the entered temperature to the other measurement scale and displays both the entered temperature and the equivalent temperature in the other measurement scale.
 
+
 ## 4. Employement Management System
 
 - Employment management system using Eclipse, Spring Boot and MySQL.This project implements a REST API that allow client-server interaction for features, such as: add, delete, edit employee information from MySQL database.
+
+
+## 5.
+
+- This project involves writing a program to translate Morse code into English and English into Morse code. This program prompts the user to specify the desired type of translation, input a string of Morse code characters or English characters, then display the translated results. The Morse code pattern and English letter translations are  kept and processed using either two one-dimensional arrays.
+- When you input Morse code, separate each letter/digit with a single space, and delimit multiple words with a “|”. For example, - --- | -… . would be the Morse code input for the sentence “to be”. Your program only needs to handle a single sentence and can ignore punctuation symbols. When you input English, separate each word with a blank space.
